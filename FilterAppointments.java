@@ -1,4 +1,4 @@
-package JALON010725;
+package DoctorWhen;
 
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;

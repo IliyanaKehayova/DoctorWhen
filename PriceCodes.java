@@ -1,4 +1,4 @@
-package JALON010725;
+package DoctorWhen;
 import java.util.HashMap;
 import java.util.Scanner;
 
